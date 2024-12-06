@@ -29,7 +29,7 @@ bash
 Here's an updated README.md file with detailed step-by-step instructions for setting up and running the project:
 
 markdown
-Copy code
+
 # Telegram Stock Prediction
 
 This project demonstrates how to scrape data from Telegram channels related to stock market discussions, preprocess the data, and use machine learning to predict stock market trends based on the sentiment of messages.
@@ -57,7 +57,7 @@ cd telegram-stock-prediction
 Make sure you have pip installed. Then, install the necessary dependencies listed in the requirements.txt file:
 
 bash
-Copy code
+
 pip install -r requirements.txt
 
 Alternatively, you can install the required libraries manually by running:
@@ -93,7 +93,7 @@ pip install notebook
 Once installed, you can open the notebook by running:
 
 bash
-Copy code
+
 
 jupyter notebook demo_notebook.ipynb
 
